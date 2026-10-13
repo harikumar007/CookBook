@@ -4,11 +4,7 @@ CookBook is an Android app built with Kotlin and Jetpack Compose to explore reci
 
 ## Screenshot
 
-Add the app screenshot here:
-
 ![Cook Book app screenshot](./assets/cookbook-home.png)
-
-> Save the image as `assets/cookbook-home.png` in this repository to display it correctly in the README.
 
 ## Features
 
