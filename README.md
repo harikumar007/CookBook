@@ -2,6 +2,8 @@
 
 CookBook is an Android app built with Kotlin and Jetpack Compose to explore recipe categories and meal details using TheMealDB API.
 
+[![Android CI](https://github.com/harikumar007/CookBook/actions/workflows/android.yml/badge.svg)](https://github.com/harikumar007/CookBook/actions/workflows/android.yml)
+
 ## Screenshot
 
 ![Cook Book app screenshot](./assets/cookbook-home.png)
